@@ -359,7 +359,7 @@ table tr:nth-child(even) {background: #CCC}
   margin: 0 0 10px;
 }
 #restaurant-hours td {
-  color: #666;
+  color: #000;
 }
 
 @media only screen and (min-width: 320px) and (max-width: 640px){
