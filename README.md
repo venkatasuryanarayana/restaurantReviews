@@ -27,3 +27,6 @@ To check the version of Python you have to `python -V`.
 6. Added special attractions like box-shadows, colors in `style.css`.
 7. Finally I checked this site using audit tool `lighthouse`, then I got positive response.
 hi
+
+
+Andhra pradesh state skill development
