@@ -26,3 +26,7 @@ To check the version of Python you have to `python -V`.
 5. Implemented functionality in `media queries` for accessing this web site in various viewport sizes.
 6. Added special attractions like box-shadows, colors in `style.css`.
 7. Finally I checked this site using audit tool `lighthouse`, then I got positive response.
+
+
+
+Andhrapradesh state skill development
